@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/@samuelodusami" target="blank"><img src="https://img.shields.io/twitter/follow/@samuelodusami?logo=twitter&style=for-the-badge" alt="@samuelodusami" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Git, GitHub, AWS. Azure, Python**
+- 🌱 I’m currently learning **Angular, AWS, Azure, Python**
 
 - 👯 I’m looking to collaborate on [eCommerce websites](mobile apps)
 
 - 🤝 I’m looking for help with **Javascript, Angular**
 
-- 💬 Ask me about **CSS, HTML, Javascript**
+- 💬 Ask me about **CSS, HTML, Git, GitHub, Command Line, Javascript**
 
 - 📫 How to reach me **adinfosam**
 
